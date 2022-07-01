@@ -49,5 +49,45 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
-- - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+## Table-of-Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Technologies](#technologies)
+* [License](#license)
+* [Contributing](#contributing)
+* [Questions](#questions)
+
+## [Installation](#table-of-contents)
+
+```
+npm install
+npm run build
+```
+## [Usage](#table-of-contents)
+This project was built in Node.js using the express, Webpack plugins, Inject manifest and Service workers.
+```
+npm run start:dev
+```
+
+**Please remeber to clear the cache in the browser**
+
+## [Technologies](#table-of-contents)
+* JS
+* Node.js
+* Webpack
+* CRUD IDB
+* Service Worker
+* Manifest
+
+## [License](#table-of-contents)
+The application is covered under the following license: [MIT](https://choosealicense.com/licenses/mit/)
+
+## [Contributing](#table-of-contents)
+To contribute to this application, create a pull request or fork the repo.
+
+## [Questions](#table-of-contents)
+If you have any question about the repo, open an issue or contact me directly at [Email: umairkhalid@fastmail.fm](mailto:umairkhalid@fastmail.fm).
+You can find more of my work at [GitHub](https://github.com/umairkhalid).
+
+---
+© 2022 Umair Khalid. Confidential and Proprietary. All Rights Reserved.
