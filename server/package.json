@@ -1,7 +1,7 @@
 {
-    "name": "PWA Text Editor",
+    "name": "pwa-text-editor",
     "version": "1.0.0",
-    "description": "",
+    "description": "Takes notes with JavaScript syntax highlighting!",
     "main": "server.js",
     "scripts": {
         "server": "nodemon server.js --ignore client"
