@@ -48,6 +48,23 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+## Mock-Up
+
+The following animation demonstrates the application functionality:
+
+![Demonstration of the finished Unit 19 Homework being used in the browser and then installed.](./client/src/images/app_demo.gif)
+
+The following image shows the application's `manifest.json` file:
+
+![Demonstration of the finished Unit 19 Homework with a manifest file in the browser.](./client/src/images/manifest-json.png)
+
+The following image shows the application's registered service worker:
+
+![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](./client/src/images/service-worker.png)
+
+The following image shows the application's IndexedDB storage:
+
+![Demonstration of the finished Unit 19 Homework with a IndexedDB storage named 'jate' in the browser.](./client/src/images/index-idb.png)
 
 ## Table-of-Contents
 * [Installation](#installation)
